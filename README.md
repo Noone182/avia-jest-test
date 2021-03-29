@@ -1,7 +1,24 @@
 # avia-jest-test
 
-npm run "dev": "webpack-dev-server",
-        "build": "webpack",
-        "test": "jest",
-        "test:watch": "jest --watch",
-        "test:coverage": "jest --coverage --colors"
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Test files
+```
+npm run test
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
